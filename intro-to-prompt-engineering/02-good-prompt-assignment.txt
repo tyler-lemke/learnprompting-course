@@ -1,0 +1,63 @@
+Role:
+You are a world-class summarizer that knows how to create memorable summaries
+
+Instructions:
+You will take in some information, summarize only the key components, and explain them using an analogy that most people can understand. Try to use a narrative or mental model to tie the ideas together. Make sure to use only one sentence per bullet point
+
+Tone:
+Keep the tone professional
+
+Formatting:
+Use bulletpoints and markdown
+
+Input:
+The earliest foundations of what would become computer science predate the invention of the modern digital computer. Machines for calculating fixed numerical tasks such as the abacus have existed since antiquity, aiding in computations such as multiplication and division. Algorithms for performing computations have existed since antiquity, even before the development of sophisticated computing equipment.[16]
+
+Wilhelm Schickard designed and constructed the first working mechanical calculator in 1623.[17] In 1673, Gottfried Leibniz demonstrated a digital mechanical calculator, called the Stepped Reckoner.[18] Leibniz may be considered the first computer scientist and information theorist, because of various reasons, including the fact that he documented the binary number system. In 1820, Thomas de Colmar launched the mechanical calculator industry[note 1] when he invented his simplified arithmometer, the first calculating machine strong enough and reliable enough to be used daily in an office environment. Charles Babbage started the design of the first automatic mechanical calculator, his Difference Engine, in 1822, which eventually gave him the idea of the first programmable mechanical calculator, his Analytical Engine.[19] He started developing this machine in 1834, and "in less than two years, he had sketched out many of the salient features of the modern computer".[20] "A crucial step was the adoption of a punched card system derived from the Jacquard loom"[20] making it infinitely programmable.[note 2] In 1843, during the translation of a French article on the Analytical Engine, Ada Lovelace wrote, in one of the many notes she included, an algorithm to compute the Bernoulli numbers, which is considered to be the first published algorithm ever specifically tailored for implementation on a computer.[21] Around 1885, Herman Hollerith invented the tabulator, which used punched cards to process statistical information; eventually his company became part of IBM. Following Babbage, although unaware of his earlier work, Percy Ludgate in 1909 published[22] the 2nd of the only two designs for mechanical analytical engines in history. In 1914, the Spanish engineer Leonardo Torres Quevedo published his Essays on Automatics,[23] and designed, inspired by Babbage, a theoretical electromechanical calculating machine which was to be controlled by a read-only program. The paper also introduced the idea of floating-point arithmetic.[24][25] In 1920, to celebrate the 100th anniversary of the invention of the arithmometer, Torres presented in Paris the Electromechanical Arithmometer, a prototype that demonstrated the feasibility of an electromechanical analytical engine,[26] on which commands could be typed and the results printed automatically.[27] In 1937, one hundred years after Babbage's impossible dream, Howard Aiken convinced IBM, which was making all kinds of punched card equipment and was also in the calculator business[28] to develop his giant programmable calculator, the ASCC/Harvard Mark I, based on Babbage's Analytical Engine, which itself used cards and a central computing unit. When the machine was finished, some hailed it as "Babbage's dream come true".[29]
+
+During the 1940s, with the development of new and more powerful computing machines such as the Atanasoff–Berry computer and ENIAC, the term computer came to refer to the machines rather than their human predecessors.[30] As it became clear that computers could be used for more than just mathematical calculations, the field of computer science broadened to study computation in general. In 1945, IBM founded the Watson Scientific Computing Laboratory at Columbia University in New York City. The renovated fraternity house on Manhattan's West Side was IBM's first laboratory devoted to pure science. The lab is the forerunner of IBM's Research Division, which today operates research facilities around the world.[31] Ultimately, the close relationship between IBM and Columbia University was instrumental in the emergence of a new scientific discipline, with Columbia offering one of the first academic-credit courses in computer science in 1946.[32] Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s.[33][34] The world's first computer science degree program, the Cambridge Diploma in Computer Science, began at the University of Cambridge Computer Laboratory in 1953. The first computer science department in the United States was formed at Purdue University in 1962.[35] Since practical computers became available, many applications of computing have become distinct areas of study in their own rights.
+
+Output:
+- **Early Computational Tools**: The abacus and early algorithms were like basic hand tools for arithmetic, laying the foundation for computation.
+  
+- **Mechanical Calculators (1623-1834)**: Early mechanical calculators were one-task machines, but Babbage's vision for a programmable device set the stage for modern computers.
+
+- **Ada Lovelace (1843)**: Ada Lovelace wrote the first algorithm for a machine, making her the first programmer in history.
+
+- **Hollerith and the Punched Cards (1885)**: Hollerith's punched cards revolutionized data processing, becoming a key technology in early computing.
+
+- **Electromechanical Calculators (1920)**: Torres Quevedo's electromechanical calculators combined electricity and mechanics, moving toward more powerful computational machines.
+
+- **IBM and Harvard Mark I (1937-1945)**: IBM's backing of the Harvard Mark I brought Babbage’s dream of a programmable machine to life.
+
+- **Birth of Modern Computer Science (1940s)**: Computers transitioned from calculators to general-purpose machines capable of a wide range of tasks.
+
+- **Establishment of Computer Science (1950s-1960s)**: Universities formalized computer science as a discipline, starting with programs at Purdue and Cambridge.
+
+**Analogy**: The evolution of computer science mirrors transportation's history, from simple tools (abacus/horse-drawn carts) to complex, programmable systems (modern computers/automated vehicles).
+
+Input:
+
+Dendrosicyos is a monotypic genus in the plant family Cucurbitaceae. The only species is Dendrosicyos socotranus, the cucumber tree. The species is endemic to the island of Socotra in Yemen, and is the only species in the Cucurbitaceae to grow in a tree form. The species name was originally spelled D. socotrana,[2] but this is corrected to masculine grammatical gender according to the International Code of Nomenclature for algae, fungi, and plants.[3][4]
+
+Features 
+
+It has a bulbous trunk and a small crown.[5] It was first described by Isaac Bayley Balfour in 1882.[1] A recent molecular phylogenetic analysis of the family Cucurbitaceae found that the Dendrosicyos lineage is about twice as old as the island, and thus seems to be an island relic of a progenitor lineage that became extinct on the mainland.[6] 
+
+The leaves are nearly round, covered with fine bristles, and slightly toothed. The yellow flowers (3 cm), males and females are present on the same plant for cross pollination. It reproduces only by seed. Fruits (3 x 5 cm) are green, turning brick-red when ripe. 
+
+Seedlings subjected to overgrazing and regeneration may be compromised over time, except for seedlings protected from goats by Cissus subaphylla. The species is considered endangered. In Soqotri, its name is qamhiyn.
+
+Contrary to what its region of origin would suggest, Dendrosicyos socotranus responds well to being drenched and fertilized, if the temperature is greater than 20 °C. Individuals in their natural habitat can attain 3 meters (10 feet) in height. Trunks are succulent, but not bottle-shaped when young. The plant produces flowers when five years old.[7]
+
+D. socotranus has a bottle-shaped base of fibrous wood (pachycaul). The trunk reaches a diameter of up to one meter. Numerous small twigs and branches grow from the stem, the bottle tree growth form making it distinctive.
+
+The base consists largely of parenchyma. In it are embedded small xylem strands that are linked to each other (anastomosis). These xylem strands have a cambium, and a secondary phloem forms. There is not a consistently active cambium - it will always be sequentially formed on the periphery of a new cambium (cambium successively). Dendrosicyos is the first member of the Cucurbitaceae in which such meristem has been demonstrated.
+
+The leaves are about 25 cm long and wide, its leaf edge being slightly thorny. On the underside of the leaves are trichomes of from two to seven cells, the cells often containing two cystoliths. The epidermal cells are lignified.
+
+The flowers occur in the leaf axils. The species is monoecious - male and female flowers on one plant. The flowers are yellowish-orange with long petals and the fruits are ovate. The seeds are about 6 mm.
+
+The plant contains dendrosycin, an iso-cucurbitacin with an unusual ring formation.[8]
+
+Output:
